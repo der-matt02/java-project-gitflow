@@ -6,5 +6,9 @@ public class Main {
 
         Despedida despedida = new Despedida();
         System.out.println(despedida.generarDespedida("Mundo"));
+
+        System.out.println("***************");
+        System.out.println("* JAVA PROJECT *");
+        System.out.println("***************");
     }
 }
